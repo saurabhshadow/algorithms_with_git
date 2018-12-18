@@ -15,6 +15,7 @@ Happy Open Sourcing!
 - [Array Rotation By 1](algorithms/Array/array_rotation_by_1)
 - [Maximum of Array](algorithms/Array/maximum_of_array)
 - [Number of Inversions in a Array](algorithms/Array/No-of-Inversions)
+- [Remove Duplicates from Sorted Array](algorithms/Array/Remove_Duplicates_from_Sorted_array)
 
 ### Binary Search Tree
 - [Finding Minimum of BST](algorithms/Binary_Search_Tree/bst_min)
@@ -29,6 +30,7 @@ Happy Open Sourcing!
 ### Graph
 
 - [Breadth First Traversal](algorithms/Graph/breadth_first_traversal)
+- [Depth First Traversal](algorithms/Graph/DFS_Graph)
 - [Dijkstra Shortest Path](algorithms/Graph/dijkstra)
 - [Floyd Warshall Algorithm](algorithms/Graph/floyd_warshall)
 - [Graph Coloring using backtracking](algorithms/Graph/graph_coloring)
@@ -44,6 +46,7 @@ Happy Open Sourcing!
 - [Digits to Figure](algorithms/Maths/digit_to_figure)
 - [T Prime Number](algorithms/Maths/t_prime_number)
 - [Last_Men_Standing](algorithms/Maths/last_men_standing)
+- [Modulo Square Root](algorithms/Maths/Modulo-Square-Root)
 
 ### Sorting
 
@@ -53,14 +56,19 @@ Happy Open Sourcing!
 - [Insertion Sort](algorithms/Sorting/insertion_sort)
 - [Merge Sort](algorithms/Sorting/Merge_sort)
 - [Quick Sort](algorithms/Sorting/quick_sort)
+- [Radix Sort](algorithms/Sorting/radix_sort)
 - [Selection Sort](algorithms/Sorting/selection_sort)
 
 ### Searching
 
 - [Binary_Search](algorithms/Searching/binary_search)
 - [Linear_Search](algorithms/Searching/linear_search)
+- [Jump_search](algorithms/Searching/Jump_search)
+- [Interpolation_Search](algorithms/Searching/Interpolation_search)
 
 ### Strings
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
 - [KMP Pattern Search Alogrithm](algorithms/Strings/KMP_Pattern_Search_Algorithm)
 - [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
+- [Rabin-Karp Algorithm](algorithms/strings/Rabin_-_Karp_algorithm)
+- [Naive algorithm for Pattern Searching](algorithms/strings/Naive_algorithm_for_pattern_searching)
