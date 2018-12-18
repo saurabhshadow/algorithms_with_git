@@ -25,4 +25,4 @@ Rabin Karp algorithm matches the hash value of the pattern with the hash value o
 ### Implemented in:
 
 - [C](Rabin_-_Karp_algorithm.c)
-- [C++](<Link to C++ file>)
+- [C++](Rabin_-_Karp_algorithm.cpp)

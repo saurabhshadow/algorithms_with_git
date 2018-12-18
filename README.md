@@ -66,3 +66,4 @@ Happy Open Sourcing!
 - [KMP Pattern Search Alogrithm](algorithms/Strings/KMP_Pattern_Search_Algorithm)
 - [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
 - [Rabin-Karp Algorithm](algorithms/strings/Rabin_-_Karp_algorithm)
+- [Naive algorithm for Pattern Searching](algorithms/strings/Naive_algorithm_for_pattern_searching)
