@@ -60,9 +60,11 @@ Happy Open Sourcing!
 
 - [Binary_Search](algorithms/Searching/binary_search)
 - [Linear_Search](algorithms/Searching/linear_search)
+- [Jump_Search](algorithms/Searching/Jump_search)
 
 ### Strings
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
 - [KMP Pattern Search Alogrithm](algorithms/Strings/KMP_Pattern_Search_Algorithm)
 - [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
 - [Rabin-Karp Algorithm](algorithms/strings/Rabin_-_Karp_algorithm)
+- [Naive algorithm for Pattern Searching](algorithms/strings/Naive_algorithm_for_pattern_searching)
