@@ -15,11 +15,15 @@ Happy Open Sourcing!
 - [Array Rotation By 1](algorithms/Array/array_rotation_by_1)
 - [Maximum of Array](algorithms/Array/maximum_of_array)
 - [Number of Inversions in a Array](algorithms/Array/No-of-Inversions)
+- [Min Cost Path](algorithms/Array/Min%20Cost%20Path)
+- [Pangram](algorithms/Array/Pangram)
 - [Remove Duplicates from Sorted Array](algorithms/Array/Remove_Duplicates_from_Sorted_array)
+- [Reverse an array](algorithms/Array/reverse_elements_of_array)
 
 ### Binary Search Tree
 - [Finding Minimum of BST](algorithms/Binary_Search_Tree/bst_min)
 - [Deleting a node from BST](algorithms/Binary_Search_Tree/bst_del)
+- [Counting_no_of_leaf_nodes_of_BST](algorithms/Binary_Search_Tree/Count_Leaf_Nodes)
 
 
 ### Linked List
@@ -30,6 +34,7 @@ Happy Open Sourcing!
 ### Graph
 
 - [Breadth First Traversal](algorithms/Graph/breadth_first_traversal)
+- [Depth First Traversal](algorithms/Graph/Depth_first_Traversal)
 - [Dijkstra Shortest Path](algorithms/Graph/dijkstra)
 - [Floyd Warshall Algorithm](algorithms/Graph/floyd_warshall)
 - [Graph Coloring using backtracking](algorithms/Graph/graph_coloring)
@@ -39,12 +44,15 @@ Happy Open Sourcing!
 
 - [Armstrong No](algorithms/Maths/armstrong_no)
 - [Binomial Coefficient](algorithms/Maths/binomialCoefficient)
+- [Finding factors of a number](algorithms/Maths/find_all_factors_of_a_number)
 - [Fibonacci Series](algorithms/Maths/fibonacci)
 - [Magic Number](algorithms/Maths/magic_no/)
 - [Towers_of_Hanoi](algorithms/Maths/Towers_of_Hanoi/)
 - [Digits to Figure](algorithms/Maths/digit_to_figure)
 - [T Prime Number](algorithms/Maths/t_prime_number)
+- [Fast Power](algorithms/Maths/fast_power)
 - [Last_Men_Standing](algorithms/Maths/last_men_standing)
+- [Modulo Square Root](algorithms/Maths/Modulo-Square-Root)
 
 ### Sorting
 
@@ -54,7 +62,9 @@ Happy Open Sourcing!
 - [Insertion Sort](algorithms/Sorting/insertion_sort)
 - [Merge Sort](algorithms/Sorting/Merge_sort)
 - [Quick Sort](algorithms/Sorting/quick_sort)
+- [Radix Sort](algorithms/Sorting/radix_sort)
 - [Selection Sort](algorithms/Sorting/selection_sort)
+- [Tree Sort](algorithms/Sorting/tree_sort)
 
 ### Searching
 
@@ -62,6 +72,7 @@ Happy Open Sourcing!
 - [Linear_Search](algorithms/Searching/linear_search)
 - [Jump_search](algorithms/Searching/Jump_search)
 - [Interpolation_search](algorithms/Searching/Interpolation_search)
+
 
 ### Strings
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
