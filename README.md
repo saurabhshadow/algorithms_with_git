@@ -15,7 +15,10 @@ Happy Open Sourcing!
 - [Array Rotation By 1](algorithms/Array/array_rotation_by_1)
 - [Maximum of Array](algorithms/Array/maximum_of_array)
 - [Number of Inversions in a Array](algorithms/Array/No-of-Inversions)
+- [Min Cost Path](algorithms/Array/Min%20Cost%20Path)
+- [Pangram](algorithms/Array/Pangram)
 - [Remove Duplicates from Sorted Array](algorithms/Array/Remove_Duplicates_from_Sorted_array)
+- [Reverse an array](algorithms/Array/reverse_elements_of_array)
 
 ### Binary Search Tree
 - [Finding Minimum of BST](algorithms/Binary_Search_Tree/bst_min)
@@ -66,6 +69,7 @@ Happy Open Sourcing!
 - [Tree Sort](algorithms/Sorting/tree_sort)
 - [Shell Sort](algorithms/Sorting/Shell_sort)
 - [Bucket Sort](algorithms/Sorting/Bucket_sort)
+
 
 ### Searching
 
