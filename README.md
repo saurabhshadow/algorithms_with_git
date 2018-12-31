@@ -62,6 +62,7 @@ Happy Open Sourcing!
 - [Radix Sort](algorithms/Sorting/radix_sort)
 - [Selection Sort](algorithms/Sorting/selection_sort)
 - [Tree Sort](algorithms/Sorting/tree_sort)
+- [Shell Sort](algorithms/Sorting/Shell_sort)
 
 ### Searching
 
